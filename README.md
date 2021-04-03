@@ -1,2 +1,2 @@
-# avblocks-cpp-mac
-AVBlocks C++ SDK for macOS
+# avblocks-cpp-mac-gui
+AVBlocks C++ SDK for macOS (GUI Samples)
